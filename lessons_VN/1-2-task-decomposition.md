@@ -19,7 +19,7 @@ Với các phần có liên quan, hãy liệt kê rõ từng bước. Quản lý
 
 ### Prompt theo từng giai đoạn trong một cuộc trò chuyện
 
-Với sản phẩm được xây dựng theo từng lớp, hãy yêu cầu tạo dàn ý, xem xét và điều chỉnh dàn ý, rồi soạn từng phần. Bạn kiểm tra đầu ra của mỗi giai đoạn trước khi chuyển sang giai đoạn tiếp theo. Đầu ra đã được duyệt trở thành nền tảng cho giai đoạn sau, nên có thể điều chỉnh khi việc sửa còn dễ. Quản lý siêu thị sửa dàn ý trước khi có bất kỳ phần nào được viết.
+Với sản phẩm được xây dựng theo từng lớp, hãy yêu cầu tạo dàn ý, xem xét và điều chỉnh dàn ý, rồi soạn từng phần. Bạn kiểm tra đầu ra của mỗi giai đoạn trước khi chuyển sang giai đoạn tiếp theo. Đầu ra đã được duyệt trở thành nền tảng cho giai đoạn sau, nên có thể điều chỉnh khi chi phí sửa còn thấp. Quản lý siêu thị sửa dàn ý trước khi có bất kỳ phần nào được viết.
 
 ### Yêu cầu lập kế hoạch trước
 
@@ -39,7 +39,7 @@ Chọn sai sẽ dẫn đến một trong hai kiểu thất bại: prompt khổng
 
 Một cuộc trò chuyện mới không tự động có được tài liệu làm việc của cuộc trò chuyện khác. Claude hiện có khả năng ghi nhớ giữa các cuộc trò chuyện, dưới dạng các chủ đề riêng lẻ về vai trò, dự án, sở thích và bối cảnh công việc đang diễn ra của bạn. Đó là ngữ cảnh về bạn, không phải bản ghi hội thoại. Tính năng này không chuyển dàn ý đã duyệt, hướng dẫn giọng điệu hay bản nháp đang viết dở sang cuộc trò chuyện mới. Trên các gói trả phí, bạn có thể yêu cầu Claude tìm kiếm các cuộc trò chuyện cũ và lấy thông tin liên quan. Đây là thao tác truy xuất mà bạn phải yêu cầu, không phải việc tự động chuyển tiếp ngữ cảnh.
 
-Cách đáng tin cậy là chủ động lưu chuyển thông tin. Dán đầu ra vào cuộc trò chuyện mới, đính kèm lại tệp hoặc lưu trong kho kiến thức của Project. Projects là các không gian làm việc độc lập với lịch sử trò chuyện và kiến thức riêng. Khi quay lại báo cáo trong một cuộc trò chuyện mới, quản lý dán dàn ý vào trước. Việc chuyển tiếp đầu ra là trách nhiệm của bạn, không phải của sản phẩm.
+Cách đáng tin cậy là chủ động lưu giữ thông tin để dùng tiếp. Dán đầu ra vào cuộc trò chuyện mới, đính kèm lại tệp hoặc lưu trong kho kiến thức của Project. Projects là các không gian làm việc độc lập với lịch sử trò chuyện và kiến thức riêng. Khi quay lại báo cáo trong một cuộc trò chuyện mới, quản lý dán dàn ý vào trước. Việc chuyển tiếp đầu ra là trách nhiệm của bạn, không phải của sản phẩm.
 
 ## Trong kỳ thi
 
@@ -53,7 +53,7 @@ Tính năng Memory ra mắt trên claude.ai vào ngày 11 tháng 9 năm 2025 cho
 
 ### Bẫy: Dùng prompt khổng lồ để làm mọi thứ, nhằm giữ toàn bộ sản phẩm ở một nơi
 
-Sự tập trung bị phân tán khi một tin nhắn yêu cầu cả dự án, nên một số phần được làm tốt còn số khác chỉ được lướt qua; các lỗi chỉ được phát hiện sau khi toàn bộ sản phẩm đã sai. Biện pháp được hướng dẫn là chia yêu cầu phức tạp thành các bước nhỏ.
+Mức độ chú ý phân bổ không đồng đều khi một tin nhắn chứa các yêu cầu của cả dự án, nên một số phần được làm tốt còn số khác chỉ được lướt qua; việc chỉnh sửa chỉ diễn ra sau khi toàn bộ sản phẩm đã sai. Biện pháp được hướng dẫn là chia yêu cầu phức tạp thành các bước nhỏ.
 
 ### Bẫy: Chia công việc liên quan sang nhiều cuộc trò chuyện
 
@@ -76,7 +76,9 @@ Một giám đốc chương trình tại tổ chức từ thiện phải làm b�
 
 ### Chia một sản phẩm nhiều phần thành các giai đoạn
 
-**Độ khó:** 30 phút
+**Độ khó:** Trung cấp (2/4)
+
+**Thời lượng:** 30 phút
 
 **Bạn sẽ học được**
 
@@ -117,14 +119,15 @@ Mỗi khi một giai đoạn sau cần đầu ra của giai đoạn trước, h�
 
 ## Nguồn
 
-- My prompt isn't giving me a helpful answer — Anthropic
-- Prompting best practices — Anthropic
-- How do usage and length limits work? — Anthropic
-- Use Claude's chat search and memory to build on previous context — Anthropic
-- Bringing memory to Claude — Anthropic
-- What are projects? — Anthropic
+- [My prompt isn't giving me a helpful answer](https://support.claude.com/en/articles/7996857-my-prompt-isn-t-giving-me-a-helpful-answer) — Anthropic
+- [Prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices) — Anthropic
+- [How do usage and length limits work?](https://support.claude.com/en/articles/11647753-how-do-usage-and-length-limits-work) — Anthropic
+- [Use Claude's chat search and memory to build on previous context](https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-context) — Anthropic
+- [Bringing memory to Claude](https://claude.com/blog/memory) — Anthropic
+- [What are projects?](https://support.claude.com/en/articles/9517075-what-are-projects) — Anthropic
 
-**Luyện tập miền này** · **Bài tập thực hành** · **Tham khảo nhanh** · **Thuật ngữ**
+**[Luyện tập miền này](/ccao-f/drill?domain=1)** · **[Bài tập thực hành](/ccao-f/exercises/1-prompting-task-execution)** · **[Tham khảo nhanh](/ccao-f/quick-reference/domain-1)** · **[Thuật ngữ](/ccao-f/glossary/domain-1)**
 
-**Bài học trước:** Tạo prompt hiệu quả cho các tác vụ kinh doanh và kỹ thuật  
-**Bài học tiếp theo:** Lặp lại và cải thiện prompt
+**Bài học trước:** [Tạo prompt hiệu quả cho các tác vụ kinh doanh và kỹ thuật](/ccao-f/learn/1-prompting-task-execution/1-1-effective-prompts)
+
+**Bài học tiếp theo:** [Lặp lại và cải thiện prompt](/ccao-f/learn/1-prompting-task-execution/1-3-prompt-iteration)
