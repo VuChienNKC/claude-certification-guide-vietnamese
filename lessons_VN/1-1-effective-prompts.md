@@ -57,7 +57,7 @@ Prompt mơ hồ tạo ra đầu ra chung chung, cần chỉnh sửa nhiều. Nê
 
 ## Trong kỳ thi
 
-Đáp án sai thường gặp trong mục tiêu này là prompt một dòng “viết gì đó về kết quả Q3”, được xem là chấp nhận được vì Claude sẽ tự hiểu. Claude không thể làm vậy: không có thành phần nào trong năm thành phần để dựa vào. Yêu cầu về công thức ở trên đã thể hiện kỹ năng thuộc Miền 1; công thức tinh tế đến đâu chưa bao giờ là điều được hỏi.
+Đáp án sai thường gặp trong mục tiêu này là prompt một dòng “viết gì đó về kết quả quý 3 của chúng ta”, được xem là chấp nhận được vì Claude sẽ tự hiểu. Claude không thể làm vậy: không có thành phần nào trong năm thành phần để dựa vào. Yêu cầu về công thức ở trên đã thể hiện kỹ năng thuộc Miền 1; công thức tinh tế đến đâu chưa bao giờ là điều được hỏi.
 
 ### Khái niệm chính
 
@@ -75,7 +75,7 @@ Câu hỏi trong mục tiêu này thường chỉ ra một thành phần bị th
 
 ### Bẫy: Tự viết sản phẩm bàn giao rồi chỉ dùng Claude để hiệu đính
 
-Điều này có vẻ cẩn thận nhưng lại không tận dụng đủ công cụ. Soạn bản nháp từ một bản giao việc tốt chính là việc Claude làm hiệu quả; chỉ giao vai trò hiệu đính sẽ bỏ phí phần tiết kiệm thời gian. Kỳ thi xem đây là cách sử dụng công cụ chưa đúng mức.
+Điều này có vẻ cẩn thận nhưng lại không tận dụng đủ công cụ. Soạn bản nháp từ một bản giao việc tốt chính là việc Claude làm hiệu quả; chỉ giao vai trò hiệu đính sẽ bỏ phí phần tiết kiệm thời gian. Kỳ thi xem đây là thái độ lười khai thác công cụ, khiến công cụ chưa được tận dụng đúng mức.
 
 ## Tình huống thực hành
 
@@ -90,7 +90,9 @@ Một điều phối viên cơ sở vật chất cần Claude soạn bản ghi n
 
 ### Viết bản giao việc đủ năm thành phần
 
-**Độ khó:** 20 phút
+**Độ khó:** Cơ bản (1/4)
+
+**Thời lượng:** 20 phút
 
 **Bạn sẽ học được**
 
@@ -124,7 +126,7 @@ Quy định đầu ra: định dạng, độ dài, giọng điệu và cấu tr�
 
 **Bạn cần thấy:** Một hoặc hai dòng quy định đầu ra cùng một ví dụ được đính kèm.
 
-Chạy prompt và so sánh bản nháp với cách bạn thường làm lần đầu, ghi lại thành phần nào đã tạo ra giá trị.
+Chạy prompt và so sánh bản nháp với bản nháp đầu tiên bạn thường tạo ra, ghi lại thành phần nào đã tạo ra giá trị.
 
 **Vì sao:** So sánh giúp bạn nhận ra từng phần của bản giao việc đã đem lại điều gì; đó là cách hình thành thói quen giao việc tốt.
 
@@ -132,13 +134,13 @@ Chạy prompt và so sánh bản nháp với cách bạn thường làm lần đ
 
 ## Nguồn
 
-- Get started with Claude — Anthropic
-- Introduction to prompt design — Anthropic
-- My prompt isn't giving me a helpful answer — Anthropic
-- Prompting best practices — Anthropic
-- Upload files to Claude — Anthropic
-- Usage limit best practices — Anthropic
+- [Get started with Claude](https://support.claude.com/en/articles/8114491-get-started-with-claude) — Anthropic
+- [Introduction to prompt design](https://support.claude.com/en/articles/7996853-introduction-to-prompt-design) — Anthropic
+- [My prompt isn't giving me a helpful answer](https://support.claude.com/en/articles/7996857-my-prompt-isn-t-giving-me-a-helpful-answer) — Anthropic
+- [Prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices) — Anthropic
+- [Upload files to Claude](https://support.claude.com/en/articles/8241126-upload-files-to-claude) — Anthropic
+- [Usage limit best practices](https://support.claude.com/en/articles/9797557-usage-limit-best-practices) — Anthropic
 
-**Luyện tập miền này** · **Bài tập thực hành** · **Tham khảo nhanh** · **Thuật ngữ**
+**[Luyện tập miền này](/ccao-f/drill?domain=1)** · **[Bài tập thực hành](/ccao-f/exercises/1-prompting-task-execution)** · **[Tham khảo nhanh](/ccao-f/quick-reference/domain-1)** · **[Thuật ngữ](/ccao-f/glossary/domain-1)**
 
-**Bài học tiếp theo:** Phân rã các yêu cầu phức tạp
+**Bài học tiếp theo:** [Phân rã các yêu cầu phức tạp](/ccao-f/learn/1-prompting-task-execution/1-2-task-decomposition)
