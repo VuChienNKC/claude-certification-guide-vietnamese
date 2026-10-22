@@ -128,4 +128,4 @@ Không đưa nội dung nào vào Project; thay vào đó, đính kèm lại ch�
 
 **Bài học trước:** [Truyền đạt giá trị và giới hạn cho các bên liên quan](https://claudecertificationguide.com/ccao-f/learn/4-workflow-integration/4-5-communicating-value-limitations)
 
-**Bài học tiếp theo:** [Quản lý kiến thức đã tải lên và connectors](https://claudecertificationguide.com/ccao-f/learn/5-configuration-knowledge/5-2-uploads-and-connectors)
+**Bài học tiếp theo:** [Quản lý kiến thức đã tải lên và trình kết nối](https://claudecertificationguide.com/ccao-f/learn/5-configuration-knowledge/5-2-uploads-and-connectors)
