@@ -126,4 +126,4 @@ Người quản lý một khu chợ đường phố họp vào thứ Bảy có m
 
 **Bài trước:** [Quản lý giới hạn ngữ cảnh và bộ nhớ: bắt đầu lại, tóm tắt, lưu giữ](https://claudecertificationguide.com/ccao-f/learn/3-product-model-selection/3-4-context-and-memory-management)
 
-**Bài tiếp theo:** [Dùng Claude cho nghiên cứu, lập kế hoạch và tối ưu hóa quy trình](https://claudecertificationguide.com/ccao-f/learn/4-workflow-integration/4-2-research-planning-optimisation)
+**Bài tiếp theo:** [Sử dụng Claude để nghiên cứu, lập kế hoạch và tối ưu hóa quy trình](https://claudecertificationguide.com/ccao-f/learn/4-workflow-integration/4-2-research-planning-optimisation)
