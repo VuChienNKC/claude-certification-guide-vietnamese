@@ -2,10 +2,9 @@
 
 **Nguồn:** https://claudecertificationguide.com/ccao-f/learn/4-workflow-integration/4-1-requirements-and-use-cases
 
-**Miền:** 4  
-**Nhiệm vụ:** 4.1
+**Miền:** 4
 
-**Học bài này theo hình thức tương tác**
+**Nhiệm vụ:** 4.1
 
 ## Những điều bạn cần biết
 
@@ -17,7 +16,7 @@ Hãy hình dung một cửa hàng báo có dịch vụ giao báo tận nhà. Ch�
 
 Yêu cầu thực tế thường xuất hiện trong các chuỗi khiếu nại, ghi chú cuộc họp, bình luận khảo sát và những cuộc trò chuyện được nhớ mang máng, chứ không bao giờ thành một danh sách gọn gàng. Help Center liệt kê việc tóm tắt tài liệu dài và cuộc trò chuyện dài trong số những công dụng cốt lõi của Claude, cùng với việc tạo góc nhìn và đưa ra đề xuất. Từ tài liệu thô, Claude có thể nhóm nội dung thành các chủ đề và phân biệt điều mọi người nói rằng họ muốn với điều có vẻ họ thực sự cần. Claude cũng nêu ra nơi hai nhóm muốn những điều không tương thích và chỉ ra điều chưa ai đề cập.
 
-Với cửa hàng báo, Claude có thể đưa ra các chủ đề như báo giao trễ và tạp chí bị giao nhầm. Claude có thể phát hiện một khu dân cư muốn nhận báo trước bảy giờ, trong khi nhân viên muốn bắt đầu muộn hơn. Một buổi chiều đọc tài liệu được rút thành biên bản, giúp những người liên quan nhìn thấy cấu trúc của vấn đề và chất vấn nó.
+Với cửa hàng báo, Claude có thể đưa ra các chủ đề như báo giao trễ và tạp chí bị giao nhầm. Claude có thể phát hiện một khu dân cư muốn nhận báo trước bảy giờ, trong khi nhân viên muốn bắt đầu muộn hơn. Việc đọc tài liệu vốn mất cả buổi chiều nay chỉ còn mất vài phút; những người liên quan có được một cách trình bày vấn đề rõ ràng để xem xét và phản biện.
 
 ## Chủ đề chỉ là một giả thuyết
 
@@ -36,13 +35,13 @@ Các trường hợp sử dụng Claude tốt có một dạng dễ nhận biế
 
 AI Fluency gọi phán đoán này là **Delegation** (ủy thác): quyết định nên giao công việc nào cho AI. Khung này xem Delegation là kỹ năng riêng, có trước khi viết bất kỳ prompt nào. Trường hợp không phù hợp có đặc điểm ngược lại: công việc cần thẩm quyền ra quyết định chứ không phải khả năng soạn thảo; hoặc phụ thuộc vào thông tin Claude không thể truy cập; hoặc thiên về quan hệ giữa người với người thay vì xử lý tài liệu.
 
-Ở cửa hàng báo, viết thư thông báo giờ giao báo mới là trường hợp phù hợp: chủ cửa hàng có thể kiểm tra. Quyết định ai phụ trách tuyến giao nào cần có thẩm quyền. Biết một tờ báo đã được giao đến trước cửa nhà hay chưa đòi hỏi thông tin Claude không có. Gọi cho một khách quen đã hủy dịch vụ là công việc về quan hệ.
+Ở cửa hàng báo, viết thư thông báo giờ giao báo mới là trường hợp phù hợp: chủ cửa hàng có thể kiểm tra. Quyết định ai phụ trách tuyến giao nào cần có thẩm quyền. Biết một tờ báo đã được giao đến trước cửa nhà hay chưa đòi hỏi thông tin Claude không có. Gọi cho một khách quen đã hủy dịch vụ là công việc duy trì quan hệ khách hàng.
 
 ## Bài kiểm tra người rà soát
 
-Đây là bước mọi người thường bỏ qua: nếu bạn không thể nhận ra câu trả lời sai, thì bạn chưa sẵn sàng dùng Claude cho nhiệm vụ đó. Khi không có người rà soát, đầu ra sai cũng dễ được chấp nhận như đầu ra đúng. Mức độ rủi ro cao không phải lý do để từ bỏ công việc; thiếu người rà soát cũng vậy. Cả hai đều có nghĩa là cần tìm người có thể phân biệt đầu ra tốt với đầu ra kém và đưa họ vào quy trình.
+Đây là bước mọi người thường bỏ qua: nếu bạn không thể nhận ra câu trả lời sai, thì bạn chưa sẵn sàng dùng Claude cho nhiệm vụ đó. Khi không có người rà soát, đầu ra sai cũng dễ được chấp nhận như đầu ra đúng. Công việc có hệ quả quan trọng không phải lý do để từ bỏ nó; thiếu người rà soát cũng vậy. Cả hai đều có nghĩa là cần tìm người có thể phân biệt đầu ra tốt với đầu ra kém và đưa họ vào quy trình.
 
-Bài kiểm tra này cũng vạch rõ vấn đề của việc ủy thác không giới hạn: tuyên bố rằng Claude sẽ xử lý trọn một loại công việc. Một loại công việc có thể bao gồm cả trường hợp phù hợp lẫn không phù hợp. Cam kết bao quát được đưa ra trước khi phân tích—bước lẽ ra phải định hình cam kết—diễn ra. Giao toàn bộ công việc quản lý giao báo cho Claude sẽ gộp cả viết thư thông báo với phân công tuyến giao.
+Bài kiểm tra này cũng vạch rõ vấn đề của việc ủy thác không giới hạn: tuyên bố rằng Claude sẽ xử lý trọn một loại công việc. Một loại công việc có thể bao gồm cả trường hợp phù hợp lẫn không phù hợp. Cam kết giao toàn bộ được đưa ra trước bước phân tích vốn phải là cơ sở cho cam kết đó. Giao toàn bộ công việc quản lý giao báo cho Claude sẽ gộp cả viết thư thông báo với phân công tuyến giao.
 
 ## Trong kỳ thi
 
@@ -50,7 +49,7 @@ Sai lầm được đề thi ưa dùng nhất ở đây là bỏ qua bước xá
 
 ## Khái niệm chính
 
-Khi câu hỏi thuộc mục 4.1 kết thúc bằng các chủ đề Claude vừa nhóm trên bàn, đáp án đúng sẽ đưa chúng trở lại với những người chịu trách nhiệm về các yêu cầu trước khi bắt đầu thiết kế. Các đáp án đánh lạc hướng sẽ coi chủ đề là phát hiện đã được xác nhận, giao luôn quyết định cho Claude, hoặc từ bỏ công việc vì mức độ rủi ro có vẻ cao.
+Khi câu hỏi thuộc mục 4.1 kết thúc bằng các chủ đề Claude vừa nhóm xong, đáp án đúng sẽ đưa chúng trở lại với những người chịu trách nhiệm về các yêu cầu trước khi bắt đầu thiết kế. Các đáp án đánh lạc hướng sẽ coi chủ đề là phát hiện đã được xác nhận, giao luôn quyết định cho Claude, hoặc từ bỏ công việc vì công việc có vẻ quá hệ trọng.
 
 ## Bẫy trong kỳ thi
 
@@ -64,7 +63,7 @@ Không thể ủy thác thẩm quyền ra quyết định. Claude sắp xếp t�
 
 ### Bẫy: Loại bỏ công việc vì nó quá quan trọng để Claude tham gia
 
-Từ chối dùng Claude nhầm lẫn mức độ rủi ro với rủi ro của việc dùng công cụ. Mức rủi ro cao là lý do để đưa vào quy trình một người rà soát có chuyên môn được chỉ định, chứ không phải từ bỏ sự hỗ trợ soạn thảo. Giải pháp là dùng bài kiểm tra người rà soát; đề thi xem việc từ chối toàn diện là đáp án sai, cũng như việc áp dụng toàn diện.
+Cách từ chối này đánh đồng mức độ hệ trọng của công việc với rủi ro khi dùng Claude. Công việc có hệ quả quan trọng là lý do để đưa vào quy trình một người rà soát có chuyên môn được chỉ định, chứ không phải từ bỏ sự hỗ trợ soạn thảo. Giải pháp là dùng bài kiểm tra người rà soát; đề thi xem việc từ chối toàn diện là đáp án sai, cũng như việc áp dụng toàn diện.
 
 ## Tình huống thực hành
 
@@ -81,7 +80,9 @@ Người quản lý một khu chợ đường phố họp vào thứ Bảy có m
 
 ### Nhóm chủ đề, xác nhận rồi phân loại
 
-**Độ khó:** 30 phút
+**Độ khó:** Cơ bản (1/4)
+
+**Thời lượng:** 30 phút
 
 **Bạn sẽ học được**
 
@@ -98,9 +99,9 @@ Người quản lý một khu chợ đường phố họp vào thứ Bảy có m
 **Yêu cầu Claude nhóm tài liệu thành các chủ đề, đánh dấu nơi hai người muốn những điều không tương thích và nêu điều chưa ai đề cập.**
 
 - **Tại sao:** Ba yêu cầu này bao quát những điểm khó thấy nhất trong tài liệu: mẫu hình, mâu thuẫn và khoảng trống.
-- **Bạn cần thấy:** Một nhóm các chủ đề có tên, ít nhất một mâu thuẫn được đánh dấu và một hoặc hai khoảng trống.
+- **Bạn cần thấy:** Một nhóm các chủ đề có tên, ít nhất một điểm xung đột được đánh dấu và một hoặc hai khoảng trống.
 
-**Đánh dấu từng chủ đề là đã xác nhận hoặc còn là giả thuyết, rồi mang hai giả thuyết quan trọng nhất trở lại với những người phụ trách chúng và ghi lại điều gì thay đổi.**
+**Đánh dấu từng chủ đề là đã xác nhận hoặc còn là giả thuyết, rồi mang hai giả thuyết có ảnh hưởng lớn nhất đến các bước tiếp theo trở lại với những người phụ trách chúng và ghi lại điều gì thay đổi.**
 
 - **Tại sao:** Đây là nguyên tắc đề thi kiểm tra: chủ đề vẫn là giả thuyết về đầu vào cho đến khi những người liên quan xác nhận.
 - **Bạn cần thấy:** Ít nhất một chủ đề được sửa đổi hoặc diễn đạt lại sau một cuộc trao đổi thực tế.
@@ -112,15 +113,17 @@ Người quản lý một khu chợ đường phố họp vào thứ Bảy có m
 
 **Với từng công việc bạn định giao cho Claude, hãy nêu tên người có thể phân biệt đầu ra sai với đầu ra đúng; nếu chưa có tên ai thì trường hợp sử dụng đó chưa sẵn sàng.**
 
-- **Tại sao:** Bài kiểm tra người rà soát là bộ lọc sắc bén nhất trong mục tiêu này, và việc nêu tên một người thật giúp câu trả lời trung thực.
-- **Bạn cần thấy:** Tên người rà soát bên cạnh mỗi công việc giao cho Claude, hoặc ghi chú về người cần tuyển dụng vào vai trò đó.
+- **Tại sao:** Bài kiểm tra người rà soát là bộ lọc sắc bén nhất trong mục tiêu này, và việc nêu đích danh một người giúp bảo đảm yêu cầu rà soát được thực hiện nghiêm túc.
+- **Bạn cần thấy:** Tên người rà soát bên cạnh mỗi công việc giao cho Claude, hoặc ghi chú về người cần mời tham gia vai trò rà soát.
 
 ## Nguồn
 
-- What are some things I can use Claude for? — Anthropic
-- AI Fluency: Framework and Foundations — Anthropic *(tên các yếu tố là tên mô-đun của khóa học; phần diễn giải mỗi yếu tố bằng một mệnh đề là nội dung diễn đạt lại của chúng tôi từ nội dung khóa học)*
-- Claude Certified Associate – Foundations Exam Guide — Anthropic *(hướng dẫn kỳ thi; các nhận định về thực hành chuyên nghiệp là đánh giá của chúng tôi, không phải hướng dẫn của Anthropic)*
+- [What are some things I can use Claude for?](https://support.claude.com/en/articles/7996845-what-are-some-things-i-can-use-claude-for) — Anthropic
+- [AI Fluency: Framework and Foundations](https://www.anthropic.com/learn/claude-for-you) — Anthropic *(tên các yếu tố là tên mô-đun của khóa học; phần diễn giải mỗi yếu tố bằng một mệnh đề là nội dung diễn đạt lại của chúng tôi từ nội dung khóa học)*
+- [Claude Certified Associate – Foundations Exam Guide](https://anthropic-partners.skilljar.com/claude-certified-associate-foundations-certification) — Anthropic *(hướng dẫn kỳ thi; các nhận định về thực hành chuyên nghiệp là đánh giá của chúng tôi, không phải hướng dẫn của Anthropic)*
 
-**Luyện tập Miền này · Bài tập thực hành · Tham khảo nhanh · Bảng thuật ngữ**  
-**Bài trước:** Quản lý giới hạn ngữ cảnh và bộ nhớ: bắt đầu lại, tóm tắt, lưu giữ  
-**Bài tiếp theo:** Dùng Claude cho nghiên cứu, lập kế hoạch và tối ưu hóa quy trình
+[Luyện tập Miền này](https://claudecertificationguide.com/ccao-f/drill?domain=4) · [Bài tập thực hành](https://claudecertificationguide.com/ccao-f/exercises/4-workflow-integration) · [Tham khảo nhanh](https://claudecertificationguide.com/ccao-f/quick-reference/domain-4) · [Bảng thuật ngữ](https://claudecertificationguide.com/ccao-f/glossary/domain-4)
+
+**Bài trước:** [Quản lý giới hạn ngữ cảnh và bộ nhớ: bắt đầu lại, tóm tắt, lưu giữ](https://claudecertificationguide.com/ccao-f/learn/3-product-model-selection/3-4-context-and-memory-management)
+
+**Bài tiếp theo:** [Dùng Claude cho nghiên cứu, lập kế hoạch và tối ưu hóa quy trình](https://claudecertificationguide.com/ccao-f/learn/4-workflow-integration/4-2-research-planning-optimisation)
