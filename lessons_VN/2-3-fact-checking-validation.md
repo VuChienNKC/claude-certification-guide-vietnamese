@@ -129,4 +129,4 @@ Kỹ năng được kiểm tra là tính tương xứng: việc kiểm tra chuy�
 
 **Bài học trước:** [Nhận diện hiện tượng bịa đặt, mâu thuẫn và thiên lệch](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-2-hallucinations-inconsistencies-bias)
 
-**Bài học tiếp theo:** [Khi nào cần người đánh giá hoặc xác minh bổ sung](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-4-human-review-escalation)
+**Bài học tiếp theo:** [Khi nào cần con người rà soát hoặc kiểm chứng bổ sung](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-4-human-review-escalation)
