@@ -16,7 +16,7 @@ Repository này chỉ chứa các bài dịch và tài liệu giới thiệu. Ng
 |---|---|---|
 | 1.1 | [Tạo prompt hiệu quả cho các tác vụ kinh doanh và kỹ thuật](lessons_VN/1-1-effective-prompts.md) | [Bản gốc](https://claudecertificationguide.com/ccao-f/learn/1-prompting-task-execution/1-1-effective-prompts) |
 | 1.2 | [Phân rã các yêu cầu phức tạp](lessons_VN/1-2-task-decomposition.md) | [Bản gốc](https://claudecertificationguide.com/ccao-f/learn/1-prompting-task-execution/1-2-task-decomposition) |
-| 1.3 | [Lặp lại và cải thiện prompt](lessons_VN/1-3-prompt-iteration.md) | [Bản gốc](https://claudecertificationguide.com/ccao-f/learn/1-prompting-task-execution/1-3-prompt-iteration) |
+| 1.3 | [Tinh chỉnh prompt qua các vòng phản hồi để cải thiện đầu ra](lessons_VN/1-3-prompt-iteration.md) | [Bản gốc](https://claudecertificationguide.com/ccao-f/learn/1-prompting-task-execution/1-3-prompt-iteration) |
 | 1.4 | [Điều chỉnh chiến lược theo loại nhiệm vụ](lessons_VN/1-4-task-type-strategies.md) | [Bản gốc](https://claudecertificationguide.com/ccao-f/learn/1-prompting-task-execution/1-4-task-type-strategies) |
 | 2.1 | [Đánh giá độ chính xác và tính đầy đủ của đầu ra](lessons_VN/2-1-accuracy-completeness.md) | [Bản gốc](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-1-accuracy-completeness) |
 | 2.2 | [Nhận diện hiện tượng bịa đặt, mâu thuẫn và thiên lệch](lessons_VN/2-2-hallucinations-inconsistencies-bias.md) | [Bản gốc](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-2-hallucinations-inconsistencies-bias) |

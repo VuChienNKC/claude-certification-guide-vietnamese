@@ -50,7 +50,7 @@ Nêu rõ đối tượng đọc có ảnh hưởng đến đầu ra nhiều hơn
 
 ## Lợi ích của việc nêu cụ thể
 
-Prompt mơ hồ tạo ra đầu ra chung chung, cần chỉnh sửa nhiều. Nêu cụ thể định dạng và giới hạn mong muốn sẽ cải thiện kết quả của Claude. Dành một phút cho bản giao việc sẽ tiết kiệm một vòng làm lại. Hướng dẫn sử dụng chính thức cũng đồng tình: hãy cụ thể và súc tích, đồng thời xem lại và chỉnh sửa prompt trước khi gửi. Giao việc rõ ràng ngay từ lần đầu giúp tiết kiệm thời gian và tiêu hao ít hạn mức sử dụng hơn so với sửa đi sửa lại. Yêu cầu một dòng của công ty lợp mái không cung cấp phiếu công việc, người đọc hay định dạng.
+Prompt mơ hồ tạo ra đầu ra chung chung, cần chỉnh sửa nhiều. Nêu cụ thể định dạng và giới hạn mong muốn sẽ cải thiện kết quả của Claude. Dành một phút cho bản giao việc sẽ tiết kiệm một vòng làm lại. Hướng dẫn sử dụng chính thức cũng đồng tình: hãy cụ thể và súc tích, đồng thời xem lại và chỉnh sửa prompt trước khi gửi. Giao việc rõ ràng ngay từ lần đầu giúp tiết kiệm thời gian và dùng ít hạn mức sử dụng hơn so với sửa đi sửa lại. Yêu cầu một dòng của công ty lợp mái không cung cấp phiếu công việc, người đọc hay định dạng.
 
 ## Tác vụ kỹ thuật ở cấp Associate
 
