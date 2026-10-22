@@ -135,4 +135,4 @@ Người quản lý một phòng khám da liễu nhờ Claude hướng dẫn cá
 
 **Bài học trước:** [Đánh giá độ chính xác và tính đầy đủ của đầu ra](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-1-accuracy-completeness)
 
-**Bài học tiếp theo:** [Kỹ thuật kiểm tra sự thật và xác thực](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-3-fact-checking-validation)
+**Bài học tiếp theo:** [Kỹ thuật kiểm chứng thông tin và xác minh đầu ra](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-3-fact-checking-validation)
