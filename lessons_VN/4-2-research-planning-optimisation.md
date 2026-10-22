@@ -150,4 +150,4 @@ Không có tài liệu nào của Anthropic đề cập đến tối ưu hóa qu
 
 **Bài học trước:** [Phân tích yêu cầu và trường hợp sử dụng](https://claudecertificationguide.com/ccao-f/learn/4-workflow-integration/4-1-requirements-and-use-cases)
 
-**Bài học tiếp theo:** [Hỗ trợ thiết kế, phát triển và lặp lại giải pháp](https://claudecertificationguide.com/ccao-f/learn/4-workflow-integration/4-3-solution-design-iteration)
+**Bài học tiếp theo:** [Hỗ trợ thiết kế, phát triển và cải tiến giải pháp qua các vòng thử nghiệm](https://claudecertificationguide.com/ccao-f/learn/4-workflow-integration/4-3-solution-design-iteration)
