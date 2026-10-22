@@ -137,4 +137,4 @@ Người quản lý một phòng khám mắt có ba bản nháp Claude: nội du
 
 **Bài học trước:** [Kỹ thuật kiểm chứng thông tin và xác minh đầu ra](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-3-fact-checking-validation)
 
-**Bài học tiếp theo:** [Chỉnh sửa, điều chỉnh và so sánh câu trả lời cho phù hợp với người đọc](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-5-editing-adapting-outputs)
+**Bài học tiếp theo:** [Chỉnh sửa, điều chỉnh và so sánh đầu ra cho phù hợp với người đọc](https://claudecertificationguide.com/ccao-f/learn/2-output-evaluation/2-5-editing-adapting-outputs)
